@@ -1,0 +1,2 @@
+# HauntNuker
+A small nuker
